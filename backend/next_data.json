@@ -1,0 +1,204 @@
+{
+  "dataManager": "[]",
+  "props": {
+    "isServer": true,
+    "initialState": {
+      "main": {
+        "sessionKey": "",
+        "userData": {},
+        "authState": "",
+        "loginUrl": "",
+        "logoutUrl": "",
+        "registerUrl": ""
+      },
+      "modal": {
+        "modal_open": "",
+        "modal_title": "",
+        "modal_message": "",
+        "modal_redirect": "",
+        "modal_message_color": "#000000"
+      }
+    },
+    "initialProps": {
+      "pageProps": {
+        "common": {
+          "status": true,
+          "message": "Success",
+          "data": {
+            "header_logo": "https://cdn-webth.garenanow.com/webth/rov/mainsite/v2/logo_rov.png",
+            "header_links": [
+              {
+                "order": 1,
+                "name": "ข่าวสาร",
+                "url": "/contents",
+                "is_sub": false
+              },
+              {
+                "order": 2,
+                "name": "กฏกติกา",
+                "url": "https://rov.in.th/informations/rule",
+                "is_sub": false
+              },
+              {
+                "order": 3,
+                "name": "วิธีการเล่น",
+                "url": "https://guide.rov.in.th/",
+                "is_sub": false
+              },
+              {
+                "order": 4,
+                "name": "ฮีโร่",
+                "url": "/hero",
+                "is_sub": false
+              },
+              {
+                "order": 5,
+                "name": "บริการลูกค้า",
+                "url": "https://support.garena.in.th/new/games/faqs/1/garena-rov",
+                "is_sub": false
+              },
+              {
+                "order": 6,
+                "name": "เช็คยอดค้างชำระ",
+                "url": "https://rov.in.th/checkdebt",
+                "is_sub": false
+              },
+              {
+                "order": 7,
+                "name": "RoV eSports",
+                "url": "https://rov.in.th/checkdebt",
+                "is_sub": [
+                  {
+                    "order": 1,
+                    "name": "RoV Pro League Season 1",
+                    "url": "/esports/rpls1"
+                  },
+                  {
+                    "order": 2,
+                    "name": "RoV Pro League Season 2",
+                    "url": "/esports/rpls2"
+                  },
+                  {
+                    "order": 3,
+                    "name": "RoV Pro League Season 3",
+                    "url": "/esports/rpls3"
+                  },
+                  {
+                    "order": 4,
+                    "name": "RoV Pro League Season 4",
+                    "url": "/esports/rpls4"
+                  },
+                  {
+                    "order": 5,
+                    "name": "RoV Pro League 2020 Summer",
+                    "url": "/esports/rpls5"
+                  },
+                  {
+                    "order": 6,
+                    "name": "RoV Pro League 2020 Winter",
+                    "url": "/esports/rpls6"
+                  },
+                  {
+                    "order": 8,
+                    "name": "RoV Pro League Season 1",
+                    "url": "/esports/rpls1"
+                  }
+                ]
+              }
+            ],
+            "footer_links": [
+              [
+                {
+                  "order": 1,
+                  "name": "ข่าวสาร",
+                  "url": "#news"
+                },
+                {
+                  "order": 2,
+                  "name": "eSports",
+                  "url": "#esports"
+                },
+                {
+                  "order": 3,
+                  "name": "วิธีการเล่น",
+                  "url": "https://guide.rov.in.th/"
+                },
+                {
+                  "order": 4,
+                  "name": "",
+                  "url": ""
+                },
+                {
+                  "order": 5,
+                  "name": "",
+                  "url": ""
+                }
+              ],
+              [
+                {
+                  "order": 1,
+                  "name": "ฮีโร่",
+                  "url": "#hero"
+                },
+                {
+                  "order": 2,
+                  "name": "บทความ",
+                  "url": "#news"
+                },
+                {
+                  "order": 3,
+                  "name": "บริการลูกค้า",
+                  "url": "https://support.garena.in.th/new/games/faqs/1/garena-rov"
+                },
+                {
+                  "order": 4,
+                  "name": "",
+                  "url": ""
+                },
+                {
+                  "order": 5,
+                  "name": "",
+                  "url": ""
+                }
+              ],
+              [
+                {
+                  "order": 1,
+                  "name": "Term of Service",
+                  "url": "https://www.garena.co.th/tos"
+                },
+                {
+                  "order": 2,
+                  "name": "Privacy Statement",
+                  "url": "https://www.garena.co.th/privacy"
+                },
+                {
+                  "order": 3,
+                  "name": "",
+                  "url": ""
+                },
+                {
+                  "order": 4,
+                  "name": "",
+                  "url": ""
+                },
+                {
+                  "order": 5,
+                  "name": "",
+                  "url": ""
+                }
+              ]
+            ],
+            "facebook_link": "https://www.facebook.com/ROVTH/",
+            "instagram_link": "https://www.instagram.com/garena_rov_official/",
+            "twitter_link": "https://twitter.com/garenarovth/"
+          }
+        }
+      }
+    }
+  },
+  "page": "/hero",
+  "query": {},
+  "buildId": "development",
+  "dynamicBuildId": false
+}

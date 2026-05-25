@@ -1,0 +1,1 @@
+const html = require('fs').readFileSync('wiki.html', 'utf8'); const cheerio = require('cheerio'); const $ = cheerio.load(html); console.log($('.mw-parser-output h3').map((i, el) => $(el).text()).get());

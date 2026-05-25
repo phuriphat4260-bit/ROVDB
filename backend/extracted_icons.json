@@ -1,0 +1,42 @@
+{
+  "spellIcons": {
+    "Flicker": "https://cdn-webth.garenanow.com/webth/cdn/gth/rov/non-events/official/fddf7364d70385a08998282121775b52.png",
+    "Heal": "https://cdn-webth.garenanow.com/webth/cdn/gth/rov/non-events/official/f8658093fb700a08524a8400e0511d11.png",
+    "Punish": "https://cdn-webth.garenanow.com/webth/cdn/gth/rov/non-events/official/ac14db1638efe44dee2fee5aaaf78ab7.png",
+    "Sprint": "https://cdn-webth.garenanow.com/webth/cdn/gth/rov/non-events/official/ea4826b95d2cbf5b715390e00301ecf1.png",
+    "Frostbite": "https://cdn-webth.garenanow.com/webth/cdn/gth/rov/non-events/official/5da90dc7be726e3b0d684cb3f0a54978.png"
+  },
+  "enchantIcons": {
+    "sacred bead": "https://cdn-webth.garenanow.com/webth/rov/mainsite/v2/hero/Enchantment/Veda/I/Sacred-Bead.png",
+    "holy verdict": "https://cdn-webth.garenanow.com/webth/rov/mainsite/v2/hero/Enchantment/Veda/II/Holy-Verdict.png",
+    "sacred protection": "https://cdn-webth.garenanow.com/webth/rov/mainsite/v2/hero/Enchantment/Veda/III/Sacred-Protection.png",
+    "river treader": "https://cdn-webth.garenanow.com/webth/rov/mainsite/v2/hero/Enchantment/Afata/I/River-Treader.png",
+    "mark of frost": "https://cdn-webth.garenanow.com/webth/rov/mainsite/v2/hero/Enchantment/Human/I/Mark-of-Frost.png",
+    "regrowth": "https://cdn-webth.garenanow.com/webth/rov/mainsite/v2/hero/Enchantment/Afata/II/Regrowth.png",
+    "nature_s rage": "https://cdn-webth.garenanow.com/webth/rov/mainsite/v2/hero/Enchantment/Afata/III/Nature_s-Rage.png",
+    "arcane whisper": "https://cdn-webth.garenanow.com/webth/rov/mainsite/v2/hero/Enchantment/Human/I/Arcane-Whisper.png",
+    "shadow blade": "https://cdn-webth.garenanow.com/webth/rov/mainsite/v2/hero/Enchantment/Lokheim/I/Shadow-Blade.png",
+    "deadly claw": "https://cdn-webth.garenanow.com/webth/rov/mainsite/v2/hero/Enchantment/Lokheim/II/Deadly-Claw.png",
+    "curse of death": "https://cdn-webth.garenanow.com/webth/rov/mainsite/v2/hero/Enchantment/Lokheim/III/Curse-of-Death.png",
+    "axe of sacrifice": "https://cdn-webth.garenanow.com/webth/rov/mainsite/v2/hero/Enchantment/Veda/I/Axe-of-Sacrifice.png",
+    "desperate duel": "https://cdn-webth.garenanow.com/webth/rov/mainsite/v2/hero/Enchantment/Lokheim/III/Desperate-Duel.png",
+    "gunslinger": "https://cdn-webth.garenanow.com/webth/rov/mainsite/v2/hero/Enchantment/Human/II/Gunslinger.png",
+    "reging inferno": "https://cdn-webth.garenanow.com/webth/rov/mainsite/v2/hero/Enchantment/Lokheim/I/Reging-Inferno.png",
+    "holy thunder": "https://cdn-webth.garenanow.com/webth/rov/mainsite/v2/hero/Enchantment/Veda/III/Holy-Thunder.png",
+    "reaper_s blessing": "https://cdn-webth.garenanow.com/webth/rov/mainsite/v2/hero/Enchantment/Human/I/Reaper_s-Blessing.png",
+    "devourer": "https://cdn-webth.garenanow.com/webth/rov/mainsite/v2/hero/Enchantment/Lokheim/I/Devourer.png",
+    "minion kill": "https://cdn-webth.garenanow.com/webth/rov/mainsite/v2/hero/Enchantment/Human/II/Minion-Kill.png",
+    "visceral boost": "https://cdn-webth.garenanow.com/webth/rov/mainsite/v2/hero/Enchantment/Human/III/Visceral-Boost.png",
+    "tower blessing": "https://cdn-webth.garenanow.com/webth/rov/mainsite/v2/hero/Enchantment/Afata/I/Tower-Blessing.png",
+    "nature_s gift": "https://cdn-webth.garenanow.com/webth/rov/mainsite/v2/hero/Enchantment/Afata/II/Nature_s-Gift.png",
+    "explosive shield": "https://cdn-webth.garenanow.com/webth/rov/mainsite/v2/hero/Enchantment/Afata/III/Explosive-Shield.png",
+    "devil_s awakening": "https://cdn-webth.garenanow.com/webth/rov/mainsite/v2/hero/Enchantment/Lokheim/III/Devil_s-Awakening.png",
+    "blessing": "https://cdn-webth.garenanow.com/webth/rov/mainsite/v2/hero/Enchantment/Veda/II/Blessing.png",
+    "bone cutter": "https://cdn-webth.garenanow.com/webth/rov/mainsite/v2/hero/Enchantment/Lokheim/II/Bone-Cutter.png",
+    "mana refill": "https://cdn-webth.garenanow.com/webth/rov/mainsite/v2/hero/Enchantment/Veda/I/Mana-Refill.png",
+    "forest wanderer": "https://cdn-webth.garenanow.com/webth/rov/mainsite/v2/hero/Enchantment/Afata/III/Forest-Wanderer.png",
+    "backstabbing": "https://cdn-webth.garenanow.com/webth/rov/mainsite/v2/hero/Enchantment/Afata/I/Backstabbing.png",
+    "holy summoner": "https://cdn-webth.garenanow.com/webth/rov/mainsite/v2/hero/Enchantment/Veda/III/Holy-Summoner.png",
+    "endless cycle": "https://cdn-webth.garenanow.com/webth/rov/mainsite/v2/hero/Enchantment/Human/III/Endless-Cycle.png"
+  }
+}

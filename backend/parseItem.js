@@ -1,0 +1,1 @@
+const fs = require('fs'); const html = fs.readFileSync('item.html', 'utf8'); const cheerio = require('cheerio'); const $ = cheerio.load(html); const script = $('#__NEXT_DATA__').html(); if(script) { const json = JSON.parse(script); fs.writeFileSync('item_data.json', JSON.stringify(json.props.initialProps.pageProps.content, null, 2)); console.log('Done'); }
